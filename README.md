@@ -1,5 +1,5 @@
 ## Introduction
-I’m a data scientist currently working at AT&T, where I focus on pre-training and post-training **large language models**, including **dense and sparse (mixture-of-experts) architectures**, as well as **embedding models** for large-scale, production-grade telecom applications using ScalarLM. My work spans the full generative AI lifecycle from data curation and model architecture design to evaluation, deployment, and open-source enablement, with additional ad-hoc contributions in RAG, Graph RAG, agentic systems, knowledge graphs, and ontology design. 
+I’m a data scientist currently working at AT&T, where I focus on pre-training and post-training large language models, including dense and sparse (mixture-of-experts) architectures, as well as embedding models for large-scale, production-grade telecom applications using ScalarLM. My work spans the full generative AI lifecycle from data curation and model architecture design to evaluation, deployment, and open-source enablement, with additional ad-hoc contributions in RAG, Graph RAG, agentic systems, knowledge graphs, and ontology design. 
 
 ---
 
