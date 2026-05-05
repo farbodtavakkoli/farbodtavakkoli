@@ -1,5 +1,8 @@
 ## Introduction
-I’m a data scientist currently working at AT&T, where I focus on pre-training and post-training large language models, including dense and sparse (mixture-of-experts) architectures, as well as embedding models for large-scale, production-grade telecom applications using ScalarLM. My work spans the full generative AI lifecycle from data curation and model architecture design to evaluation, deployment, and open-source enablement, with additional ad-hoc contributions in RAG, Graph RAG, agentic systems, knowledge graphs, and ontology design. 
+I'm a Data Scientist at AT&T and the technical lead of the [Open Telco (OTel) AI](https://github.com/farbodtavakkoli/OTel) project, an
+open-source initiative delivering curated telecom datasets and a family of telecom-specialized embedding, reranker, and language models. The released OTel models have surpassed [16 million downloads](https://huggingface.co/farbodtavakkoli) and received [157+ pieces of media coverage worldwide](https://github.com/farbodtavakkoli/OTel/blob/main/docs/media_coverage.md).
+
+My work focuses on GPU-agnostic training and deployment of domain-specific large language models at scale across both AMD and NVIDIA hardware, spanning the full generative AI lifecycle from data curation and model design to evaluation, benchmarking, deployment, and open-source enablement, with additional ad-hoc contributions in RAG, Graph RAG, agentic systems, knowledge graphs, and ontology design.
 
 ---
 
@@ -12,6 +15,9 @@ I began my career as a civil engineer, later specializing in transportation engi
 ## Research, Benchmarks & Evaluation
 
 I actively work with and contribute to modern evaluation frameworks and benchmarks for language models, including benchmarks on which our models have achieved #1 rankings a total of 10 times across multiple evaluation cycles.
+
+- **GSMA Open Telco AI Leaderboard — 7-Benchmark Telecom LLM Evaluation Suite**  
+  https://huggingface.co/spaces/GSMA/open-telco-leaderboard
 
 - **TeleLogs — Agentic Root Cause Analysis**  
   https://huggingface.co/spaces/otellm/leaderboard
