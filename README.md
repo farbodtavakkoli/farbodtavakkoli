@@ -1,6 +1,6 @@
 ## Introduction
 I'm a Data Scientist at AT&T and the technical lead of the [Open Telco (OTel) AI](https://github.com/farbodtavakkoli/OTel) project, an
-open-source initiative delivering curated telecom datasets and a family of telecom-specialized embedding, reranker, and language models. The released OTel models have surpassed [16 million downloads](https://huggingface.co/farbodtavakkoli) and received [157+ pieces of media coverage worldwide](https://github.com/farbodtavakkoli/OTel/blob/main/docs/media_coverage.md).
+open-source initiative delivering curated telecom datasets and a family of telecom-specialized embedding, reranker, and language models. As of May 3, 2026, the released OTel models have surpassed [16 million downloads](https://huggingface.co/farbodtavakkoli) and received [157+ pieces of media coverage worldwide](https://github.com/farbodtavakkoli/OTel/blob/main/docs/media_coverage.md).
 
 My work focuses on GPU-agnostic training and deployment of domain-specific large language models at scale across both AMD and NVIDIA hardware, spanning the full generative AI lifecycle from data curation and model design to evaluation, benchmarking, deployment, and open-source enablement, with additional ad-hoc contributions in RAG, Graph RAG, agentic systems, knowledge graphs, and ontology design.
 
