@@ -1,8 +1,18 @@
 ## Introduction
-I'm a Data Scientist at AT&T and the technical lead for [Open Telco (OTel) AI](https://github.com/farbodtavakkoli/OTel), an open-source initiative developing curated telecom datasets and specialized language, embedding, and reranking models for the telecom domain. OTel’s released models have surpassed [25 million downloads](https://huggingface.co/farbodtavakkoli) and generated more than [157 media mentions worldwide.](https://github.com/farbodtavakkoli/OTel/blob/main/docs/media_coverage.md)
 
-My work centers on training and deploying domain-specific AI at scale across diverse compute platforms, with GPU-agnostic support for both NVIDIA and AMD GPU infrastructure, spanning data curation, model development, evaluation, benchmarking, deployment, and open-source release.
+I'm a Data Scientist at AT&T and the technical lead for [Open Telco (OTel) AI](https://github.com/farbodtavakkoli/OTel), an open-source initiative developing curated telecom datasets and specialized language, embedding, reranking, and safety models for the telecom domain. OTel’s released models have surpassed [25 million downloads](https://huggingface.co/farbodtavakkoli) and generated more than [157 media mentions worldwide](https://github.com/farbodtavakkoli/OTel/blob/main/docs/media_coverage.md), with the latest feature appearing on the [Google Cloud blog](https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma).
 
+My work centers on training, evaluating, benchmarking, and deploying domain-specific AI systems at scale across diverse compute platforms, with GPU-agnostic support for both NVIDIA and AMD GPU infrastructure. I focus on the full open-source lifecycle: data curation, model development, evaluation, deployment, documentation, and community release.
+
+### Featured OTel Links
+
+- [GPU-agnostic code](https://github.com/farbodtavakkoli/OTel)
+- [OTel models](https://huggingface.co/farbodtavakkoli/models)
+- [OTel datasets](https://huggingface.co/farbodtavakkoli/datasets)
+- [Media coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/media_coverage.md)
+- [Google Cloud blog](https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma)
+- [Deep-dive blog](https://lnkd.in/ewyp588a)
+- [Full technical session recording](https://lnkd.in/eqJ2PS-9)
 ---
 
 ## Background & Applied Research
