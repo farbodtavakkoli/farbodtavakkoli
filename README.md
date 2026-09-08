@@ -1,23 +1,35 @@
 ## Introduction
 
-I'm a Data Scientist at AT&T and the technical lead for [Open Telco (OTel) AI](https://github.com/farbodtavakkoli/OTel), an open-source initiative developing curated telecom datasets and specialized language, embedding, reranking, and safety models for the telecom domain. OTel’s released models have surpassed [25 million downloads](https://huggingface.co/farbodtavakkoli) and generated more than [157 media mentions worldwide](https://github.com/farbodtavakkoli/OTel/blob/main/docs/media_coverage.md), with the latest feature appearing on the [Google Cloud blog](https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma).
+I'm a Data Scientist at AT&T and the technical lead for [Open Telco (OTel) AI](https://github.com/farbodtavakkoli/OTel), AT&T's open model family for telecom AI within the broader Open Telco AI initiative launched by GSMA at MWC 2026. GSMA provided core telecom standards data, while AT&T developed and trained OTel models, including the [31B OTel 2.0 release](https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT).
 
-My work centers on training, evaluating, benchmarking, and deploying domain-specific AI systems at scale across diverse compute platforms, with GPU-agnostic support for both NVIDIA and AMD GPU infrastructure. I focus on the full open-source lifecycle: data curation, model development, evaluation, deployment, documentation, and community release.
+OTel has grown from open telecom datasets and specialized language, embedding, reranking, classification, and safety models into a reproducible training and inference ecosystem. The repository now includes 27 distinct training stacks and nine inference stacks across AMD, NVIDIA, Apple, and Intel hardware. AMD Instinct MI355X and NVIDIA H100 received the most extensive end-to-end verification. Twenty-two of the 27 training stacks run on both AMD and NVIDIA without changes to the training code; only the environment setup changes, including ROCm or CUDA and compatible PyTorch versions.
+
+My work spans data curation, model development, post-training, evaluation, benchmarking, hardware validation, deployment, documentation, and open-source release. Current work includes publishing the OTel 2.0 training implementation, releasing a comprehensive OTel 2.0 evaluation through MLPeFT in collaboration with MLCommons, expanding training and inference support with the AWS and Tenstorrent teams, comparing GRPO and multi-node training stacks, and benchmarking AMD Ryzen inference. OTel models have reached tens of millions of downloads worldwide.
 
 ### Featured OTel Links
 
-- [GPU-agnostic code](https://github.com/farbodtavakkoli/OTel)
-- [OTel models](https://huggingface.co/farbodtavakkoli/models)
+**Project resources**
+
+- [Code, training stacks, inference stacks, and hardware-verification evidence](https://github.com/farbodtavakkoli/OTel)
+- [OTel 2.0 31B model card and weights](https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT)
+- Model collections: [LLMs](https://huggingface.co/collections/farbodtavakkoli/otel-llm), [embeddings](https://huggingface.co/collections/farbodtavakkoli/otel-embedding), and [rerankers](https://huggingface.co/collections/farbodtavakkoli/otel-reranker)
 - [OTel datasets](https://huggingface.co/farbodtavakkoli/datasets)
+- [OTel research paper](https://arxiv.org/abs/2608.15436)
 - [Media coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/media_coverage.md)
-- [Google Cloud blog](https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma)
-- [Deep-dive blog](https://lnkd.in/ewyp588a)
-- [Full technical session recording](https://lnkd.in/eqJ2PS-9)
----
 
-## Background & Applied Research
+**Selected organizational coverage**
 
-I began my career as a civil engineer, later specializing in transportation engineering, where my work focused on network demand optimization and pedestrian and cyclist safety. I subsequently transitioned into data science and applied research consulting, working across a wide range of domains including climate and environmental sustainability, public policy and social equity, healthcare and academic medicine, community development and housing stability, design and engineering innovation, and higher education and research. My work has involved partnerships with a range of organizations; selected partners and institutions include [Texas Trees Foundation](https://texastrees.org/), [Child Poverty Action Lab](https://childpovertyactionlab.org/), [Builders of Hope CDC](https://www.bohcdc.com/), [UT Southwestern Medical Center](https://www.utsouthwestern.edu/), [Hunt Institute for Engineering and Humanity](https://hunt-institute.org/), [Hyphae Design Lab](https://www.hyphae.net/), [Verdata](https://verdata.com/), [King’s College London](https://www.kcl.ac.uk/), and [Southern Methodist University](https://www.smu.edu/).
+- [GSMA: AT&T's OTel 2.0 release and Open Telco AI leaderboard](https://www.gsma.com/newsroom/article/atts-otel-2-0-is-now-live-the-largest-and-best-performing-open-source-model-built-for-telecoms/)
+- [AT&T: OTel 2.0 and the tokenomics equation](https://about.att.com/blogs/2026/the-tokenomics-equation.html)
+- [Google Cloud: Accelerating telecom AI with OTel and Gemma](https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma)
+- [Microsoft: Scaling AT&T's trillion-token workflow](https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/)
+- [AMD: AT&T's reported 94 percent training efficiency](https://www.amd.com/en/resources/case-studies/att-achieves-94-efficiency-for-ai-training-with-amd.html)
+- [Dell Technologies: Bringing OTel 2.0 to scale](https://www.dell.com/en-us/blog/otel-2-0-dell-technologies-at-t-and-amd-bring-open-telco-ai-to-scale/)
+- [Red Hat: Training an open telecom model for an industry](https://www.redhat.com/en/blog/open-telco-ai-training-model-industry)
+- [*The Wall Street Journal*: Why AT&T is betting big on open-weight AI](https://www.wsj.com/cio-journal/why-at-t-is-betting-big-on-open-weight-ai-a0ea03b1) (subscription)
+- [*Fierce Network*: Open models and AT&T's tokenomics strategy](https://www.fierce-network.com/cloud/open-models-are-driving-atts-ai-tokenomics-strategy)
+- [*The Information*: AT&T is using open-source models to curb Anthropic bills](https://www.theinformation.com/newsletters/applied-ai/t-using-open-source-models-curb-anthropic-bills) (subscription)
+- [Yahoo Finance: AT&T, NVIDIA, and the “token apocalypse”](https://finance.yahoo.com/technology/ai/articles/t-t-says-not-scared-231933381.html) (secondary coverage)
 
 ---
 
