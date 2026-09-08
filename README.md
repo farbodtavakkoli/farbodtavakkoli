@@ -15,7 +15,8 @@ My work spans data curation, model development, post-training, evaluation, bench
 - Model collections: [LLMs](https://huggingface.co/collections/farbodtavakkoli/otel-llm), [embeddings](https://huggingface.co/collections/farbodtavakkoli/otel-embedding), and [rerankers](https://huggingface.co/collections/farbodtavakkoli/otel-reranker)
 - [OTel datasets](https://huggingface.co/farbodtavakkoli/datasets)
 - [OTel research paper](https://arxiv.org/abs/2608.15436)
-- [OTel 1.0 Media coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/media_coverage.md)
+- [OTel 1.0 media coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-1.0-media-coverage.md)
+- [OTel 2.0 blogs and coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-2.0-blogs.md)
 
 **Selected organizational coverage**
 
