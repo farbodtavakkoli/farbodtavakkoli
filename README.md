@@ -10,13 +10,14 @@ My work spans data curation, model development, post-training, evaluation, bench
 
 **Project resources**
 
-- [Code, training stacks, inference stacks, and hardware-verification evidence](https://github.com/farbodtavakkoli/OTel)
+- [Hardware and software agnostic training and inference stacks](https://github.com/farbodtavakkoli/OTel)
 - [OTel 2.0 31B model card and weights](https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT)
 - Model collections: [LLMs](https://huggingface.co/collections/farbodtavakkoli/otel-llm), [embeddings](https://huggingface.co/collections/farbodtavakkoli/otel-embedding), and [rerankers](https://huggingface.co/collections/farbodtavakkoli/otel-reranker)
 - [OTel datasets](https://huggingface.co/farbodtavakkoli/datasets)
 - [OTel research paper](https://arxiv.org/abs/2608.15436)
 - [OTel 1.0 media coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-1.0-media-coverage.md)
 - [OTel 2.0 blogs and coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-2.0-blogs.md)
+- [OTel technical session recording at MWC](https://www.youtube.com/watch?v=QOYdtVT5Qxw)
 
 **Selected organizational coverage**
 
