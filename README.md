@@ -53,15 +53,20 @@ I actively work with and contribute to modern evaluation frameworks and benchmar
 
 ---
 
-## Selected Open-Source Project Websites
+## Community Impact Projects
+
+These public-interest technology, nonprofit analytics, and responsible AI projects are maintained in the [Community Impact Projects repository](https://github.com/farbodtavakkoli/community-impact-projects).
+
+- **OTel Safety Bench — Responsible AI Evaluation**  
+  [Source and documentation](https://github.com/farbodtavakkoli/community-impact-projects/tree/main/otel-safety-bench)
 
 - **Texas Trees Foundation — Climate and Environmental Sustainability**  
-  https://farbodtavakkoli.github.io/Texas-Tree-Foundation/
+  [Live website](https://farbodtavakkoli.github.io/community-impact-projects/texas-tree-foundation/) · [Source](https://github.com/farbodtavakkoli/community-impact-projects/tree/main/texas-tree-foundation)
 
 - **Builders of Hope CDC — Public Policy and Social Equity**  
-  https://farbodtavakkoli.github.io/Builders-of-Hope/
+  [Live website](https://farbodtavakkoli.github.io/community-impact-projects/builders-of-hope/) · [Source](https://github.com/farbodtavakkoli/community-impact-projects/tree/main/builders-of-hope)
 
 - **Child Poverty Action Lab — Community Development & Public Safety**  
-  https://farbodtavakkoli.github.io/Child-Poverty-Action-Lab/
+  [Live website](https://farbodtavakkoli.github.io/community-impact-projects/child-poverty-action-lab/) · [Source](https://github.com/farbodtavakkoli/community-impact-projects/tree/main/child-poverty-action-lab)
 
 ---
