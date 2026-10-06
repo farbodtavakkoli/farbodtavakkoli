@@ -12,7 +12,7 @@ My work spans data curation, model development, post-training, evaluation, bench
 
 - [OTel paper - NeurIPS 2026 Spotlight](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-NeurIPS-2026.pdf)
 - [OTel paper - ACM AI Leadership Summit 2026 Breakthrough Impact](https://arxiv.org/abs/2608.15436)
-- [Cross-platform training and inference recipes](https://github.com/farbodtavakkoli/OTel)
+- [Hardware- and software-agnostic recipes for training and inference](https://github.com/farbodtavakkoli/OTel)
 - [OTel 2.0 31B model card and weights](https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT)
 - Model collections: [LLMs](https://huggingface.co/collections/farbodtavakkoli/otel-llm), [embeddings](https://huggingface.co/collections/farbodtavakkoli/otel-embedding), and [rerankers](https://huggingface.co/collections/farbodtavakkoli/otel-reranker)
 - [OTel datasets](https://huggingface.co/farbodtavakkoli/datasets)
