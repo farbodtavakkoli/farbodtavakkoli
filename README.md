@@ -12,12 +12,11 @@ My work spans data curation, model development, post-training, evaluation, bench
 
 - [OTel paper - NeurIPS 2026 Spotlight](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-NeurIPS-2026.pdf)
 - [OTel paper - ACM AI Leadership Summit 2026 Breakthrough Impact](https://arxiv.org/abs/2608.15436)
-- [Hardware- and software-agnostic recipes for training and inference](https://github.com/farbodtavakkoli/OTel)
-- [OTel 2.0 31B model card and weights](https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT)
-- Model collections: [LLMs](https://huggingface.co/collections/farbodtavakkoli/otel-llm), [embeddings](https://huggingface.co/collections/farbodtavakkoli/otel-embedding), and [rerankers](https://huggingface.co/collections/farbodtavakkoli/otel-reranker)
-- [OTel datasets](https://huggingface.co/farbodtavakkoli/datasets)
-- [OTel 1.0 media coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-1.0-media-coverage.md)
-- [OTel 2.0 blogs and coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-2.0-blogs.md)
+- [Reproducible training and inference recipes across hardware and software platforms](https://github.com/farbodtavakkoli/OTel)
+- Model collections: [OTel 2.0 LLMs](https://huggingface.co/collections/farbodtavakkoli/otel-20-llm), [OTel 1.0 LLMs](https://huggingface.co/collections/farbodtavakkoli/otel-10-llm), [OTel 1.0 Embeddings](https://huggingface.co/collections/farbodtavakkoli/otel-10-embedding), and [OTel 1.0 Rerankers](https://huggingface.co/collections/farbodtavakkoli/otel-10-reranker)
+- [OTel datasets on Hugging Face](https://huggingface.co/farbodtavakkoli/datasets)
+- [OTel 1.0 coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-1.0-coverage.md)
+- [OTel 2.0 coverage](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-2.0-coverage.md)
 - [OTel technical session recording at MWC](https://www.youtube.com/watch?v=QOYdtVT5Qxw)
 
 **Selected organizational and media coverage**
