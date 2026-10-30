@@ -2,7 +2,7 @@
 ​
 I'm a Data Scientist at AT&T and the technical lead for [Open Telco (OTel) AI](https://github.com/farbodtavakkoli/OTel), an open ecosystem of telecom AI assets. OTel’s mission is to give telecom operators the freedom to choose their models, software, hardware, and infrastructure. With contributions from across the industry, OTel has built a shared, open-source AI foundation that enables operators to build, adapt, and deploy AI on their own terms.
 
-OTel has expanded beyond open telecom datasets and specialized embedding, reranking, language, decision, classification, and safety models to include a reproducible training and inference ecosystem. It supports multiple software stacks across hardware from AMD, NVIDIA, AWS, Apple, Tenstorrent, and Intel. Our work was accepted as a [Spotlight at NeurIPS 2026](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-NeurIPS-2026.pdf) in the Evaluations & Datasets Track.
+OTel has expanded beyond open telecom datasets and specialized embedding, reranking, language, decision, classification, and safety models to include a reproducible training and inference ecosystem. It supports multiple software stacks across hardware from AMD, NVIDIA, AWS, Apple, Tenstorrent, and Intel. Our work was accepted as a [Spotlight at NeurIPS 2026](https://arxiv.org/pdf/2610.07766) in the Evaluations & Datasets Track.
 
 My work spans data curation, model development, post-training, evaluation, benchmarking, hardware validation, deployment, documentation, and open-source releases. OTel includes more than 35 models, with tens of millions of downloads worldwide.
 
@@ -10,7 +10,7 @@ My work spans data curation, model development, post-training, evaluation, bench
 
 **Project resources**
 
-- [OTel paper - NeurIPS 2026 Spotlight](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-NeurIPS-2026.pdf)
+- [OTel paper - NeurIPS 2026 Spotlight](https://arxiv.org/pdf/2610.07766)
 - [OTel paper - ACM AI Leadership Summit 2026 Breakthrough Impact](https://arxiv.org/abs/2608.15436)
 - [Reproducible training and inference recipes across hardware and software platforms](https://github.com/farbodtavakkoli/OTel)
 - Model collections: [OTel 2.0 LLMs](https://huggingface.co/collections/farbodtavakkoli/otel-20-llm), [OTel 1.0 LLMs](https://huggingface.co/collections/farbodtavakkoli/otel-10-llm), [OTel 1.0 Embeddings](https://huggingface.co/collections/farbodtavakkoli/otel-10-embedding), and [OTel 1.0 Rerankers](https://huggingface.co/collections/farbodtavakkoli/otel-10-reranker)
@@ -39,7 +39,7 @@ My work spans data curation, model development, post-training, evaluation, bench
 
 - **OTel: Open Telco AI Datasets, Benchmarks, and Models**  
   F. Tavakkoli, G. Diamos, K. Church, et al. *NeurIPS 2026, Evaluations & Datasets Track — Spotlight.*  
-  [Paper](https://github.com/farbodtavakkoli/OTel/blob/main/docs/OTel-NeurIPS-2026.pdf) · [Code](https://github.com/farbodtavakkoli/OTel) · [Models and datasets](https://huggingface.co/farbodtavakkoli)
+  [Paper](https://arxiv.org/pdf/2610.07766) · [Code](https://github.com/farbodtavakkoli/OTel) · [Models and datasets](https://huggingface.co/farbodtavakkoli)
 
 - **OTel: Building Domain-Specialized Telecom LLM Foundations for Intelligent Networks**  
   F. Tavakkoli, R. Paulk, J. Terrazas, et al. *ACM AI Leadership Summit 2026, Breakthrough Impact Highlights Track.*  
